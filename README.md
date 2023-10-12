@@ -1,2 +1,2 @@
-# Jarvis-AI
-"Jarvis-AI" is like Google voice search. It is basically based on python programming. We can give command to the system and according to that commnd AI will generate the output.
+# Project Title : Jarvis AI
+I have made an AI using Python programming language. It is a personal project. I have attached the inbuilt google voice here. The function of the project is, if the user gives command to open any app then the AI will redirect to the app screen.
